@@ -9,9 +9,3 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
-  
-  ##
- 
-<div> 
-  ![Snake animation](https://github.com/laerte-guimaraes/laerte-guimaraes/blob/output/github-contribution-grid-snake.svg)
-</div>
