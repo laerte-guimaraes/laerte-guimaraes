@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laerte-guimaraes&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laerte-guimaraes&layout=compact&langs_count=7&theme=default"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-316192?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon Web Services-14354C?style=for-the-badge&logo=amazonaws&logoColor=white">
